@@ -1,0 +1,88 @@
+ERC report (2026-04-08T01:45:48, Encoding UTF8)
+Report includes: Errors
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; error
+    @(156.21 mm, 45.72 mm): Symbol J3 Pin 13 [Pin_13, Passiv, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(133.35 mm, 142.24 mm): Symbol U1 Pin 24 [SWCLK, Eingang, Linie]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(133.35 mm, 142.24 mm): Symbol U1 Pin 24 [SWCLK, Eingang, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(133.35 mm, 144.78 mm): Symbol U1 Pin 25 [SWDIO, Bidirektional, Linie]
+[bus_to_net_conflict]: Invalid connection between bus and net items
+    ; error
+    @(191.77 mm, 69.85 mm): Vertical Wire, length 36.83 mm
+    @(234.95 mm, 39.37 mm): Horizontal Bus, length 1.27 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 93.98 mm): Symbol U1 Pin 12 [GPIO9, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 96.52 mm): Symbol U1 Pin 13 [GPIO10, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 99.06 mm): Symbol U1 Pin 14 [GPIO11, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 101.60 mm): Symbol U1 Pin 15 [GPIO12, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 104.14 mm): Symbol U1 Pin 16 [GPIO13, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 109.22 mm): Symbol U1 Pin 18 [GPIO15, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 111.76 mm): Symbol U1 Pin 27 [GPIO16, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 114.30 mm): Symbol U1 Pin 28 [GPIO17, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 116.84 mm): Symbol U1 Pin 29 [GPIO18, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 119.38 mm): Symbol U1 Pin 30 [GPIO19, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 121.92 mm): Symbol U1 Pin 31 [GPIO20, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 124.46 mm): Symbol U1 Pin 32 [GPIO21, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 127.00 mm): Symbol U1 Pin 34 [GPIO22, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 129.54 mm): Symbol U1 Pin 35 [GPIO23, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 132.08 mm): Symbol U1 Pin 36 [GPIO24, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 134.62 mm): Symbol U1 Pin 37 [GPIO25, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 139.70 mm): Symbol U1 Pin 38 [GPIO26/ADC0, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 142.24 mm): Symbol U1 Pin 39 [GPIO27/ADC1, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 144.78 mm): Symbol U1 Pin 40 [GPIO28/ADC2, Bidirektional, Linie]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(184.15 mm, 147.32 mm): Symbol U1 Pin 41 [GPIO29/ADC3, Bidirektional, Linie]
+
+ ** ERC messages: 25  Errors 25  Warnings 0
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
